@@ -23,7 +23,7 @@ colours <- brewer.pal(8, "Dark2")
 set.seed(90307)
 ```
 
-## Introduction
+## Introduction - this is a test, we will see what happens.
 
 This RMarkdown document contains the R code which generates the results and figures included in the manuscript of the same name, plus supplementary material. We introduce the common functions `best()` and `exp_imrprove()` in the context of the first example, and call these in the remaining two examples. Simulated data have been saved to file.
 
